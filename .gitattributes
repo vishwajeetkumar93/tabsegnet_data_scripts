@@ -1,1 +1,9 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/train_intermediate.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/train.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/train_qrels.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/val_gold_segments.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/val_intermediate.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/val.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/val_qrels.json filter=lfs diff=lfs merge=lfs -text
+multihiertt/train_gold_segments.json filter=lfs diff=lfs merge=lfs -text
